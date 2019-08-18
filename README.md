@@ -4,6 +4,10 @@
 - Tanpa error bundle 
 - Tanpa Error Nokogiri
 
+# Installasi
+
+- bash Metasploit.sh
+
 # Cara Menjalankan nya
 
 - msfconsole
